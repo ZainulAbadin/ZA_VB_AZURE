@@ -1,0 +1,9 @@
+{
+	"name": "Zain-VB",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "69805555-bdf6-44c2-9a19-c8f2fb37896a",
+		"tenantId": "1a6295b7-f17d-4a40-a2f8-b53b77eff789"
+	}
+}
